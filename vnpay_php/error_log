@@ -1,0 +1,6 @@
+[30-Nov-2023 13:58:57 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/maitocxi/public_html/vnpay_php/vnpay_create_payment.php on line 28
+[30-Nov-2023 13:59:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_SecureHash in /home/maitocxi/public_html/vnpay_php/vnpay_ipn.php on line 22
+[30-Nov-2023 13:59:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_TransactionNo in /home/maitocxi/public_html/vnpay_php/vnpay_ipn.php on line 37
+[30-Nov-2023 13:59:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_BankCode in /home/maitocxi/public_html/vnpay_php/vnpay_ipn.php on line 38
+[30-Nov-2023 13:59:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_Amount in /home/maitocxi/public_html/vnpay_php/vnpay_ipn.php on line 39
+[30-Nov-2023 13:59:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: vnp_TxnRef in /home/maitocxi/public_html/vnpay_php/vnpay_ipn.php on line 42
